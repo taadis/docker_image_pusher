@@ -1,5 +1,7 @@
 hello-world
 
+couchbase:community-7.1.1
+
 #nginx
 
 #支持私库
