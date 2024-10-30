@@ -1,7 +1,7 @@
 hello-world
 
 couchbase:community-7.1.1
-catthehacker/ubuntu:latest
+catthehacker/ubuntu:act-latest
 
 #nginx
 
