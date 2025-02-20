@@ -1,5 +1,7 @@
 hello-world
 
+apache/kafka:3.7.2
+
 couchbase:community-7.1.1
 catthehacker/ubuntu:act-latest
 
